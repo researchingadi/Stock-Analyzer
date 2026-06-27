@@ -19,9 +19,9 @@
 <br>
 
 <div align="center">
-  <img src="assets/1.png" width="32%" />
-  <img src="assets/2.png" width="32%" />
-  <img src="assets/3.png" width="32%" />
+  <img src="1.png" width="32%" />
+  <img src="2.png" width="32%" />
+  <img src="3.png" width="32%" />
 </div>
 
 <br>
