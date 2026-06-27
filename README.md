@@ -18,6 +18,14 @@
 
 <br>
 
+<div align="center">
+  <img src="assets/1.png" width="32%" />
+  <img src="assets/2.png" width="32%" />
+  <img src="assets/3.png" width="32%" />
+</div>
+
+<br>
+
 ## Overview
 
 Stock Analyzer Pro is a full-featured desktop application for technical stock market analysis built entirely in Python. It provides traders and researchers with real-time market data, interactive candlestick charts, and a composite signal scoring engine that synthesizes multiple technical indicators into actionable buy/sell/hold recommendations.
