@@ -1,6 +1,6 @@
 <div align="center">
 
-# Stock Analyzer Pr
+# Stock Analyzer Pro
 
 ### A Professional Desktop Application for Quantitative Technical Analysis
 
